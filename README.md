@@ -26,4 +26,4 @@ import { waffle } from "hardhat"
 const chiToken = await waffle.deployContract(deployer, ChiToken)
 ```
 
-The deployer can be an arbitrary address
+The deployer can be an arbitrary address.
